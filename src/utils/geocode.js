@@ -22,5 +22,3 @@ const geocode = (address, callback) => {
 }
 
 module.exports = geocode
-
-https: //api.mapbox.com/geocoding/v5/mapbox.places/${address}.json?access_token=pk.eyJ1Ijoiam9obnBldGVyczcxMTYiLCJhIjoiY2lwcXByZG9rMDA2OGk5bmI0b2VodnF2bSJ9.P5Rbqx3ImctQ-UpIFm42fg`
